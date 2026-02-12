@@ -10,7 +10,7 @@ const mahmud = [
   "জান",
   "জানু",
   "বেবি",
-  "wifey",
+  "gf",
   "hinata",
 ];
 
@@ -26,7 +26,7 @@ const baseApiUrl = async () => {
 
 module.exports.config = {
    name: "hinata",
-   aliases: ["baby", "bby", "bbu", "jan", "janu", "wifey", "bot"],
+   aliases: ["baby", "bby", "bbu", "jan", "janu", "gf", "bot"],
    version: "1.7",
    author: "MahMUD",
    role: 0,
@@ -162,7 +162,7 @@ module.exports.onChat = async ({ api, event }) => {
           "আমাকে ডাকলে ,আমি কিন্তূ কিস করে দেবো😘 ",  
           "🐒🐒🐒",
           "bye",
-          "naw amr boss k message daw m.me/mahmud0x7",
+          "naw amr boss k message daw https://m.me/zefoxxit",
           "mb ney bye",
           "meww",
           "গোলাপ ফুল এর জায়গায় আমি দিলাম তোমায় মেসেজ",
@@ -196,7 +196,7 @@ module.exports.onChat = async ({ api, event }) => {
           "আজব তো__😒",
           "আমাকে ডেকো না,আমি ব্যাস্ত আসি🙆🏻‍♀",
           "𝗕𝗯𝘆 বললে চাকরি থাকবে না",
-          "𝗕𝗯𝘆 𝗕𝗯𝘆 না করে আমার বস মানে, MahMUD ,MahMUD ও তো করতে পারো😑?",
+          "𝗕𝗯𝘆 𝗕𝗯𝘆 না করে আমার বস মানে, Rifat ,zefox ও তো করতে পারো😑?",
           "আমার সোনার বাংলা, তারপরে লাইন কি? 🙈",
           "🍺 এই নাও জুস খাও..!𝗕𝗯𝘆 বলতে বলতে হাপায় গেছো না 🥲",
           "হটাৎ আমাকে মনে পড়লো 🙄",
